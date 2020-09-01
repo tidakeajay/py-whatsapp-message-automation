@@ -1,0 +1,5 @@
+# ignore sent message history
+pywhatkit_dbs.txt
+
+# local history
+.history/
